@@ -1,7 +1,7 @@
-<h4 align="center">
+<h2 align="center">
   Hello, I'm Samara! 👋
-</h4>
-<h5 align="center">:rocket: Front-End Developer</h5>
+</h2>
+<h3 align="center">:rocket: Front-End Developer</h3>
 <p align="center">
   ferreirasamara.sf@gmail.com | 
   <a href="https://www.linkedin.com/in/samarafer/">LinkedIn</a>
