@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hello, I'm Samara! 👋
+  Hi, I'm Samara! 👋
 </h2>
 <h3 align="center">:rocket: Front-End Developer</h3>
 <p align="center">
