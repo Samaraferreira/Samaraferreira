@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🔥 Formação: 
+  📚 Formação: 
   <ul>
     <li><strong>Técnico em Informática (IFAL)</strong></li>
     <li><strong>Programação Frontend (Digital House - Estação Hack/Facebook)</strong></li>
