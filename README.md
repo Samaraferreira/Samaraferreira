@@ -28,7 +28,9 @@
 <p align="center">
    Email: ferreirasamara.sf@gmail.com 
   <br>
-  <a href="https://www.linkedin.com/in/samarafer/">LinkedIn</a>
+  
+  <a href="https://www.linkedin.com/in/samarafer" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Samara%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samarafer" /></a>
 </p>
 
 <p align="center">
