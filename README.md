@@ -2,7 +2,6 @@
 
 <p align="left">
   Olá, meu nome é Samara sou <strong>Desenvolvedora Front-end</strong>.<br>
-  Atualmente estou concluindo o curso Técnico em Informática.
 </p>
 
 <p align="left">
@@ -14,11 +13,21 @@
 </p>
 
 <p align="left">
+  🔥 Formação: 
+  <ul>
+    <li><strong>Técnico em Informática (IFAL)</strong></li>
+    <li><strong>Programação Frontend (Digital House - Estação Hack/Facebook)</strong></li>
+    <li><strong>AceleraDEV ReactJS - Codenation</strong></li>
+  </ul>
+</p>
+
+<p align="left">
 📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
 </p>
 
 <p align="center">
-  ferreirasamara.sf@gmail.com | 
+   Email: ferreirasamara.sf@gmail.com 
+  <br>
   <a href="https://www.linkedin.com/in/samarafer/">LinkedIn</a>
 </p>
 
