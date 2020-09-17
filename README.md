@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🔥 Pretende aprender: <strong>Vue.JS, React Native e UX Design.</strong>
+  🔥 Pretendo aprender: <strong>Vue.JS, React Native e UX Design.</strong>
 </p>
 
 <p align="left">
