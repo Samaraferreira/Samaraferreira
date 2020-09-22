@@ -1,7 +1,5 @@
-<img src="https://github.com/Samaraferreira/Samaraferreira/blob/master/developer.png" width="400%" align="top" alt="Samara Ferreira">
-
 <p align="left">
-  Olá, meu nome é Samara sou <strong>Desenvolvedora Front-end</strong>.<br>
+  <h1>Desenvolvedora Front-end</h1>
 </p>
 
 <p align="left">
