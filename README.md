@@ -15,7 +15,7 @@
   <ul>
     <li><strong>Técnico em Informática (IFAL)</strong></li>
     <li><strong>Programação Frontend (Digital House - Estação Hack/Facebook)</strong></li>
-    <li><strong>AceleraDEV ReactJS - Codenation</strong></li>
+    <li><strong>AceleraDEV ReactJS (Codenation)</strong></li>
   </ul>
 </p>
 
@@ -31,6 +31,6 @@
 <img src="https://img.shields.io/badge/-Samara%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samarafer" /></a>
 </p>
 
-<p align="center">
-  
+<p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraferreira&show_icons=true&layout=compact" />
 </p>
