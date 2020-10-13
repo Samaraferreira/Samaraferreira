@@ -1,4 +1,4 @@
-<h2 align="center">Desenvolvedora Front-end</h2>
+<h1 align="center">Desenvolvedora Front-end</h1>
 
 <h4 align="center">
   Aqui você vai encontrar meus projetos e minhas colaborações para o mundo open source.
