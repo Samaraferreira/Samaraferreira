@@ -1,11 +1,9 @@
 <h1 align="center">Desenvolvedora Front-end</h1>
 <br />
 
-<p align="center">
+<h4 align="center">
   Seja bem-vindo a meu github, aqui você vai encontrar meus projetos e minhas colaborações para o mundo open source.
-</p>
-
-<br /><br />
+</h4>
 
 <p align="center">
 📫  Você pode me encontrar ou entrar em contato comigo por essas redes:
@@ -21,7 +19,6 @@
   </a>
 </p>
 
----
 <details>
     <summary>🚀 Skills</summary>
     <br />
