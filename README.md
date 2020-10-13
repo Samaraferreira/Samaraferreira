@@ -1,8 +1,7 @@
-<h1 align="center">Desenvolvedora Front-end</h1>
-<br />
+<h2 align="center">Desenvolvedora Front-end</h2>
 
 <h4 align="center">
-  Seja bem-vindo a meu github, aqui você vai encontrar meus projetos e minhas colaborações para o mundo open source.
+  Aqui você vai encontrar meus projetos e minhas colaborações para o mundo open source.
 </h4>
 
 <p align="center">
