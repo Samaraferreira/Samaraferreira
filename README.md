@@ -22,7 +22,7 @@
     <summary>🚀 Skills</summary>
     <br />
     <ul>
-        <li> HTML5 | CSS3 | </li>
+        <li> HTML5 | CSS3 </li>
         <li> JavaScript | TypeScript</li>
         <li> ReactJS | Node.js</li>
     </ul>
@@ -33,7 +33,7 @@
     <summary>📚 Formação</summary>
     <br />
     <ul>
-        <li> Tecníco em Informática | IFAL</li>
+        <li> Técnico em Informática | IFAL</li>
         <li> Programação Frontend | Digital House - Estação Hack</li>
         <li> AceleraDEV ReactJS | Codenation</li>
     </ul>
