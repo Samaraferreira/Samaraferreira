@@ -1,6 +1,8 @@
 <h1 align="center">Desenvolvedora Web</h1>
 
 <h4 align="center">
+  Olá! 👋 
+  <br /><br />
   Aqui você vai encontrar meus projetos e minhas colaborações para o mundo open source.
 </h4>
 
