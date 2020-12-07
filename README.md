@@ -1,14 +1,8 @@
-<h1 align="center">Desenvolvedora Web</h1>
-
-<h4 align="center">
-  Olá! 👋 
-  <br /><br />
-  Aqui você vai encontrar meus projetos e minhas colaborações para o mundo open source.
-</h4>
-
-<p align="center">
-📫  Você pode me encontrar ou entrar em contato comigo por essas redes:
-</p>
+<h3>
+  Olá 👋 
+  Sou Samara, Dev Web!
+  <br />
+</h3>
 
 <p align="center">
   <a href="mailto:ferreirasamara.sf@gmail.com" alt="Gmail">
@@ -20,23 +14,13 @@
   </a>
 </p>
 
-<details>
-    <summary>🚀 Skills</summary>
-    <br />
-    <ul>
-        <li> HTML5 | CSS3 </li>
-        <li> JavaScript | TypeScript | Java</li>
-        <li> ReactJS | Node.js</li>
-    </ul>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraferreira&show_icons=true&layout=compact" />
-</details>
+<h4>📚 Formação</h4>
+<ul>
+    <li> Técnico em Informática | IFAL</li>
+    <li> Programação Frontend | Digital House - Estação Hack</li>
+    <li> AceleraDEV ReactJS | Codenation</li>
+</ul>
 
-<details>
-    <summary>📚 Formação</summary>
-    <br />
-    <ul>
-        <li> Técnico em Informática | IFAL</li>
-        <li> Programação Frontend | Digital House - Estação Hack</li>
-        <li> AceleraDEV ReactJS | Codenation</li>
-    </ul>
-</details>
+<h4>🚀 Skills</h4>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraferreira&show_icons=true&layout=compact" />
+
