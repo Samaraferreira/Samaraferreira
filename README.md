@@ -1,10 +1,10 @@
-<h3>
+<h2>
   Olá 👋 
   Sou Samara, Dev Web!
   <br />
-</h3>
+</h2>
 
-<p align="center">
+<p>
   <a href="mailto:ferreirasamara.sf@gmail.com" alt="Gmail">
    <img src="https://img.shields.io/badge/-ferreirasamara.sf@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ferreirasamara.sf@gmail.com" /> 
   </a>
