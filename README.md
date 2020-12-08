@@ -14,16 +14,16 @@
   </a>
 </p>
 
-<h4>📚 Formação</h4>
-<ul>
-    <li> Técnico em Informática | IFAL</li>
-    <li> Programação Frontend | Digital House - Estação Hack</li>
-    <li> AceleraDEV ReactJS | Codenation</li>
-</ul>
-
 <h4>🚀 Skills</h4>
 <ul>
     <li> HTML5 | CSS3 </li>
     <li> JavaScript | TypeScript | Java</li>
     <li> ReactJS | Node.js</li>
+</ul>
+
+<h4>📚 Formação</h4>
+<ul>
+    <li> Técnico em Informática | IFAL</li>
+    <li> Programação Frontend | Digital House - Estação Hack</li>
+    <li> AceleraDEV ReactJS | Codenation</li>
 </ul>
