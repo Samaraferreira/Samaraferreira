@@ -27,5 +27,3 @@
     <li> JavaScript | TypeScript | Java</li>
     <li> ReactJS | Node.js</li>
 </ul>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraferreira&show_icons=true&layout=compact" />
-
