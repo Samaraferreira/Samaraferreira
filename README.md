@@ -1,7 +1,7 @@
-<h2 align="center">
+<h1 align="center">
   Hi guys 👋 
   <br />  
-</h2>
+</h1>
 <p align="center">Meu nome é Samara e sou Dev Web!</>
 <p align="center">
   <a href="mailto:ferreirasamara.sf@gmail.com" alt="Gmail">
