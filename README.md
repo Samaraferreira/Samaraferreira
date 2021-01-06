@@ -5,11 +5,11 @@
 <p align="center">Meu nome é Samara e sou Dev Web!</>
 <p align="center">
   <a href="mailto:ferreirasamara.sf@gmail.com" alt="Gmail">
-   <img src="https://img.shields.io/badge/-ferreirasamara.sf@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ferreirasamara.sf@gmail.com" /> 
+   <img src="https://img.shields.io/badge/ferreirasamara.sf@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:ferreirasamara.sf@gmail.com" /> 
   </a>
 
   <a href="https://www.linkedin.com/in/samarafer" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Samara%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samarafer" />
+    <img src="https://img.shields.io/badge/Samara%20Ferreira-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/samarafer" />
   </a>
 </p>
 
