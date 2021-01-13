@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi guys 👋 
+  Hi 👋 
   <br />  
 </h1>
 <p align="center">Meu nome é Samara e sou Dev Web!</>
