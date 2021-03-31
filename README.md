@@ -2,7 +2,7 @@
   Olá! 👋 
   <br />  
 </h1>
-<p align="center">Meu nome é Samara e sou Dev Front-end na <b>Sorocabacom</b>!</>
+<p align="center">Meu nome é Samara e sou Dev Java na <a href="https://www.zup.com.br/">Zup</a>!</>
 <p align="center">
   <a href="mailto:ferreirasamara.sf@gmail.com" alt="Gmail">
    <img src="https://img.shields.io/badge/ferreirasamara.sf@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:ferreirasamara.sf@gmail.com" /> 
