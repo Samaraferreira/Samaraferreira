@@ -1,4 +1,4 @@
-# What's up my friends
+# Hey, there! 👋
 
 <p>
   I'm Samara Ferreira :blush:
