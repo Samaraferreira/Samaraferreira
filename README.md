@@ -1,4 +1,4 @@
-# Hey, there! 👋
+# Hi! 👋
 
 <p>
 I'm Samara Ferreira :blush:
