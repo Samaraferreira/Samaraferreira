@@ -1,10 +1,12 @@
-# Hi! 👋
+### Hi, I'm Samara Ferreira :blush:
 
-<p>
-I'm Samara Ferreira :blush:
-<br>
-I’m currently working at <a href="https://www.zup.com.br/">Zup</a> :orange_heart:
-</p>
+
+Backend Developer at <a href="https://www.zup.com.br/">Zup</a> :orange_heart:
+
+I'm currently working with...
+- Java
+- Spring boot, JUnit5
+- AWS (RDS, ECS, SNS, SQS, API Gateway, CloudWatch)
 
 <p>
 <a href="https://www.linkedin.com/in/samarafer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
