@@ -1,7 +1,9 @@
 ### Hi, I'm Samara Ferreira :blush:
 
 
-Backend Developer at <a href="https://www.zup.com.br/">Zup</a> :orange_heart:
+* Backend Developer at <a href="https://www.zup.com.br/">Zup</a> :orange_heart:
+
+* AWS Certified
 
 I'm currently working with...
 - Java
