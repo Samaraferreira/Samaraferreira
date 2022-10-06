@@ -1,14 +1,15 @@
 ### Hi, I'm Samara Ferreira :blush:
 
 
-* Backend Developer at <a href="https://www.zup.com.br/">Zup</a> :orange_heart:
+:orange_heart: Backend Developer at <a href="https://www.zup.com.br/">Zup</a> 
 
-* AWS Certified
+:mortar_board: AWS Certified 
 
 I'm currently working with...
 - Java
 - Spring boot, JUnit5
 - AWS (RDS, ECS, SNS, SQS, API Gateway, ALB)
+- Terraform
 
 <p>
 <a href="https://www.linkedin.com/in/samarafer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
