@@ -11,7 +11,7 @@
 #### 🚀 Skills:
 - Java
 - Spring boot, JUnit5
-- AWS (RDS, ECS, SNS, SQS, API Gateway, ALB)
+- AWS (RDS, ECS, SNS, SQS, API Gateway, ALB, Secrets Manager)
 - Terraform
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaraferreira&show_icons=true&layout=compact" />
