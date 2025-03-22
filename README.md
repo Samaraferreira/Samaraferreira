@@ -4,7 +4,7 @@
 <a href="mailto:ferreirasamara.sf@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 </p>
 
-:orange_heart: Backend Developer at <a href="https://www.zup.com.br/">Zup</a> 
+:orange_heart: Software Engineer at [Creditas](https://www.creditas.com/)
 
 :mortar_board: AWS Certified 
 
